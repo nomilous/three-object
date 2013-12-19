@@ -6,7 +6,7 @@
   "keywords": [],
   "dependencies": {
     "nomilous/three": "*",
-    "nomilous/three-math-common"
+    "nomilous/three-math-common": "*"
   },
   "development": {},
   "license": "MIT",
