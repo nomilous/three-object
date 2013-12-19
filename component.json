@@ -1,0 +1,17 @@
+{
+  "name": "three-object",
+  "repo": "nomilous/three-object",
+  "description": "three.js - object",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "nomilous/three": "*",
+    "nomilous/three-math-common"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
