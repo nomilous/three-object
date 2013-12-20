@@ -3,4 +3,8 @@ Word: [component](https://github.com/component/component) provides a delicious c
 three-object
 ============
 
-three.js - object 
+three.js - object
+
+
+contains most base object types, for the render, tests for instanceof against each type
+
