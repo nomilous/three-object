@@ -5,6 +5,5 @@ three-object
 
 three.js - object
 
-
-contains most base object types, for the render, tests for instanceof against each type
+[base here](https://github.com/nomilous/three)
 
